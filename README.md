@@ -1,7 +1,7 @@
 ![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Satish Chandra Karki</h1>
 <h3 align="center">A human being.</h3>
-<img align="right" alt="Coding" width="550" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="right" alt="Coding" width="525" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish051&label=Profile%20views&color=0e75b6&style=flat" alt="satish051" /> </p>
 
@@ -12,6 +12,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satish051&show_icons=true&locale=en&layout=compact" alt="satish051" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=satish051&show_icons=true&locale=en" alt="satish051" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=satish051&show_icons=true&locale=en" alt="satish051" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satish051&" alt="satish051" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=satish051&" alt="satish051" /></p>
