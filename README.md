@@ -1,5 +1,5 @@
 ![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
-<h1 align="center">Hi 👋, I'm Satish Chandra Karki</h1>
+<h1 align="center">Hi 👋, I'm सतीश चन्द्र कार्की</h1>
 <h3 align="center">A human being.</h3>
 <img align="right" alt="Coding" width="525" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
