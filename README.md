@@ -1,4 +1,4 @@
-![MasterHead](https://giphy.com/stickers/sad-tired-whatever-6mkfj3LKowCe4)
+![MasterHead]("C:\Users\satis\OneDrive\Pictures\github-header-image.png")
 
 <h1 align="center">Hi 👋, I'm सतीश चन्द्र कार्की</h1>
 <h3 align="center">A human being.</h3>
