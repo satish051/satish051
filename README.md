@@ -1,4 +1,4 @@
-![MasterHead]("C:\Users\satis\OneDrive\Pictures\github-header-image.png")
+![MasterHead](" ")
 
 <h1 align="center">Hi 👋, I'm सतीश चन्द्र कार्की</h1>
 <h3 align="center">A human being.</h3>
