@@ -4,8 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Satish%20Chandra%20Karki&fontSize=70&fontColor=ffffff" alt="Header" />
 </div>
 
-### 🎓 Student at Tribhuvan University
-
 I am a developer based in **Kathmandu, Nepal**. I am currently working on open-source projects and web-based systems.
 
 ---
@@ -20,25 +18,6 @@ I am a developer based in **Kathmandu, Nepal**. I am currently working on open-s
 
 ---
 
-### 📂 Public Repositories
-
-| Repository | Description | Language |
-| :--- | :--- | :--- |
-| **Employee_management_system_** | Employee management system source code. | `JavaScript` |
-| **data-collection-system-** | Structured data collection system. | `PHP` |
-| **PasswordGenerator** | A tool to create secure and random passwords. | `JavaScript` |
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satish051&show_icons=true&theme=radical&hide_border=true" alt="Satish's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satish051&theme=radical&hide_border=true" alt="Satish's Streak" />
-</div>
-
----
 
 ### 📫 Connect with Me
 
