@@ -18,11 +18,6 @@
 
 <br/><br/>
 
-<h3>🏆 Season Stats</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satish051&theme=dark&hide_border=true&ring=F57C00&fire=F57C00&currStreakLabel=F57C00&sideNums=F57C00&dates=F57C00" alt="Streak Stats" />
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=satish051&style=flat-square&color=orange" alt="Profile Views" />
 
 </div>
