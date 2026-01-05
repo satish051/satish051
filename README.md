@@ -2,13 +2,13 @@
 
 # Hi, I'm Satish! 👋
 
-### Student at Tribhuvan University 🇳🇵
+### Junior .NET Developer & Digital Marketing Executive
 
 <a href="https://satishchandrakarki.com.np"><b>🌐 Portfolio</b></a> • <a href="https://linktr.ee/satish.chandra.karki"><b>🔗 Linktree</b></a>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=js,php,html,css,git" height="40" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,mssql,js,php,html,css,git" height="40" alt="Tech Stack" />
 
 <br/><br/>
 
