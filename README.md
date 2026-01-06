@@ -3,12 +3,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F57C00&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Satish!+%F0%9F%8F%80;Junior+.NET+Developer;Digital+Marketing+Executive;Ballin'+with+Code" alt="Typing SVG" />
 
 <br/>
-
 <a href="https://satishchandrakarki.com.np" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-F57C00?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 <a href="https://linktr.ee/satish.chandra.karki" target="_blank">
   <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
+<a href="https://github.com/satish051/satish051/blob/main/Satish_Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download_CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
 </a>
 
 <br/><br/>
