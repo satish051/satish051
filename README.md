@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F57C00&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Satish!+%F0%9F%8F%80;Junior+.NET+Developer;Digital+Marketing+Executive;Ballin'+with+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F57C00&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Satish!+%F0%9F%8F%80;.NET+Developer;Digital+Marketing+Executive;Ballin'+with+Code" alt="Typing SVG" />
 
 <br/>
 <a href="https://satishchandrakarki.com.np" target="_blank">
